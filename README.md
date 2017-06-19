@@ -25,7 +25,13 @@ Cumae, like everything else here, is totally open source and can be found on [it
 
 ### How does it look like?
 
-*WIP*
+Well, it's a *business* card and it looks like this:
+
+![The "Hello" frame in SBuCa](https://raw.githubusercontent.com/michelangelo/SBuCa/master/Images/SBuCa_Hello.jpg)
+
+![Owner presentation frame](https://raw.githubusercontent.com/michelangelo/SBuCa/master/Images/SBuCa_IAm.jpg)
+
+![Screensaver/HackMe Frame](https://raw.githubusercontent.com/michelangelo/SBuCa/master/Images/SBuCa_HackMe.jpg)
 
 ### BOM
 
