@@ -21,7 +21,7 @@ As already pointed out, one of the non-functional goals of SBuCa, since its ince
 
 This goal has been achieved by **Cumae**, the proto-OS SBuCa is currently running.
 
-Cumae, like everything else here, is totally open source and can be found on [its own repository](github.com/michelangelo/Cumae).
+Cumae, like everything else here, is totally open source and can be found on [its own repository](https://github.com/michelangelo/Cumae).
 
 ### How does it look like?
 
